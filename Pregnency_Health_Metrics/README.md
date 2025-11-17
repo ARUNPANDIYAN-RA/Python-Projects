@@ -7,7 +7,7 @@
 - [Project Overview](#project-Overview-🚀)
 - [Procedures](#Procedures-💻)
 - [Visualizations](#Queries-and-Analysis-💻)
-- [Technology Stack](#Technology Stack-💻)
+- [Technology Stack](#TechnologyStack-💻)
 
 ---
 
