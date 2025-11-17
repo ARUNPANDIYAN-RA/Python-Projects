@@ -7,6 +7,7 @@
 - [Project Overview](#project-Overview-🚀)
 - [Procedures](#Procedures-💻)
 - [Visualizations](#Queries-and-Analysis-💻)
+- [Technology Stack](#Technology Stack-💻)
 
 ---
 
@@ -65,6 +66,7 @@ We have used imported pandas for automation like cleaning the dataset and explor
 ---
 
 ### Technology Stack 💻
+---
 
 Spreadsheet for data collection : Microsoft Excel
 
